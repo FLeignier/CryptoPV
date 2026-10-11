@@ -1,0 +1,16 @@
+{
+  "name": "CryptoPV – plus-values crypto",
+  "short_name": "CryptoPV",
+  "description": "Calcul hors ligne des plus-values crypto (méthode française, formulaire 2086)",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f3ef",
+  "theme_color": "#14322b",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
