@@ -1,5 +1,5 @@
 // Offline cache for the app shell. CoinGecko requests are never cached here (the app stores prices itself).
-const VERSION = 'cryptopv-v2';
+const VERSION = 'cryptopv-v3';
 const SHELL = ['./', 'index.html', 'core.js', 'app.js', 'manifest.webmanifest', 'vendor/xlsx.full.min.js',
   'icons/icon-192.png', 'icons/icon-512.png', 'icons/icon-512-maskable.png'];
 

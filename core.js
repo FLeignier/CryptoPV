@@ -58,7 +58,7 @@
     BUSD: 'binance-usd', HNT: 'helium', ENS: 'ethereum-name-service', '1INCH': '1inch',
     COMP: 'compound-governance-token', SUSHI: 'sushi', YFI: 'yearn-finance', BAT: 'basic-attention-token',
     ZIL: 'zilliqa', WBTC: 'wrapped-bitcoin', STETH: 'staked-ether', TAO: 'bittensor', ONDO: 'ondo-finance',
-    HYPE: 'hyperliquid', ENA: 'ethena', WLD: 'worldcoin-wld', PYTH: 'pyth-network', XDC: 'xdce-crowd-sale'
+    HYPE: 'hyperliquid', ALPH: 'alephium', RIO: 'realio-network', RSR: 'reserve-rights-token', MORPHO: 'morpho', ENA: 'ethena', WLD: 'worldcoin-wld', PYTH: 'pyth-network', XDC: 'xdce-crowd-sale'
   };
 
   // ---------- small helpers ----------
